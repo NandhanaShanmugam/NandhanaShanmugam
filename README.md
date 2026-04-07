@@ -87,46 +87,6 @@ Accessibility-first voice email client enabling fully hands-free email managemen
 
 ---
 
-### 🌦️ [Weather Forecast App](https://github.com/NandhanaShanmugam/weather-forecast-app)
-JavaScript-based weather forecast application.
-
-`JavaScript`
-
----
-
-### 📊 [ITC Data Analytics](https://github.com/NandhanaShanmugam/ITC_DA)
-Data analysis and exploration using Jupyter Notebooks.
-
-`Python` `Jupyter Notebook` `pandas` `NumPy`
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| MSc Advanced Artificial Intelligence | University College Dublin, Ireland | 2025 – Present |
-| BE Computer Science & Engineering (8.66 / 10) | Saranathan College of Engineering, India | 2020 – 2024 |
-
----
-
-## 📜 Certifications
-
-- Oracle Cloud Infrastructure 2024 Foundations Associate
-- Data Science & AI Masters 2025 – From AI to Gen AI (Udemy)
-- Cloud Application Development – IBM
-- Building Real Life AI Applications
-
----
-
-## 🏅 Honours & Awards
-
-- 🏆 **Naan Mudhalvan Award** – Government of Tamil Nadu, for academic achievement
-- 🥇 **CODEWAR Winner** (Debugging) – Technifix 2022
-- 🥈 **Brain Teaser Runner-Up** – Technifix 2022
-- 📖 **JACKHI Book of World Records** – Contributor at Salam to Kalam National Event
-
----
 
 ## 📈 GitHub Stats
 
