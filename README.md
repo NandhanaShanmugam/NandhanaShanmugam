@@ -16,7 +16,7 @@
 
 I'm an MSc Advanced Artificial Intelligence student at University College Dublin with a background in Computer Science Engineering. I combine full-stack development experience with a growing specialisation in AI, deep learning, and generative AI systems.
 
-I've interned at two tech companies — building Flask APIs for blockchain applications and contributing to embedded-systems dashboards in ReactJS — and I love building projects that solve real problems, whether that's helping visually impaired users manage email hands-free or identifying crop diseases from leaf images.
+I love building projects that solve real problems, whether that's helping visually impaired users manage email hands-free or identifying crop diseases from leaf images.
 
 - 🔭 Currently studying Advanced Generative AI, LLMs, and ML System Deployment at UCD
 - 🌱 Exploring RAG pipelines, LangChain, and LLM APIs (OpenAI, Anthropic)
